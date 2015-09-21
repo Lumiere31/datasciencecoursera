@@ -1,2 +1,2 @@
 # datasciencecoursera
-R Programming with Coursera
+Learning Data Science with Coursera
